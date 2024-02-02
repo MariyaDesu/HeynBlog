@@ -5,11 +5,28 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "LINK",
+  description: "Heyn's BLOGS",
+
+  head: [
+    // 下载字体
+    [
+      "link",
+      {
+        href: "https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.7.0/style.css",
+        rel: "stylesheet",
+      },
+    ],
+  ],
 
   theme,
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
+
+
+  
+
+
+  
 });
