@@ -23,7 +23,7 @@ jobs:
 
 
 
-      - name: 设置 Node.js
+      - name: 设置 Node
         uses: actions/setup-node@v3
         with:
           node-version: 20

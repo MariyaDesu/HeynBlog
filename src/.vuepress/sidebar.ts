@@ -4,10 +4,24 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "文章",
+      text: "Javascript",
       icon: "iconfont icon-align",
-      prefix: "framework/",
-      link: "framework/",
+      prefix: "Javascript/",
+      link: "Javascript/",
+      children: "structure",
+    },
+    {
+      text: "Vue",
+      icon: "iconfont icon-align",
+      prefix: "Vue/",
+      link: "Vue/",
+      children: "structure",
+    },
+    {
+      text: "Node",
+      icon: "iconfont icon-align",
+      prefix: "Node/",
+      link: "Node/",
       children: "structure",
     },
   ],
