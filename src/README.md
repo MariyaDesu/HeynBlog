@@ -4,6 +4,7 @@ layout: BlogHome
 icon: home
 title: HOME
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+bgImage: 'bg.jpg'
 heroText: Heyn‘s BLOGS
 heroFullScreen: false
 tagline: 今日事今日毕

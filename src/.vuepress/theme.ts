@@ -4,7 +4,7 @@ import sidebar from "./sidebar.js";
 
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://www.heyn.fun/",
   
 
   author: {
@@ -16,7 +16,9 @@ export default hopeTheme({
 
   logo: "./logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  
+
+  // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
@@ -67,6 +69,8 @@ export default hopeTheme({
     blog: true,
     // 搜索
     search: true,
+
+
 
     // 在启用之前需要安装 @waline/client
     // 警告: 这是一个仅供演示的测试服务器，在生产环境中请自行部署并使用自己的服务器！
