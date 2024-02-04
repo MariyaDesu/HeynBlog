@@ -12,6 +12,11 @@ export default navbar([
   //   ],
   // },
   {
+    text: "Html&Css",
+    icon: "iconfont icon-align",
+    link: 'Html&Css/'
+  },
+  {
     text: "Javascript",
     icon: "iconfont icon-align",
     link: 'Javascript/'
