@@ -17,6 +17,8 @@ export default defineUserConfig({
         rel: "stylesheet",
       },
     ],
+
+    // ["link", { rel: "stylesheet", href: "/styles/myFont.css" }],
   ],
 
   theme,

@@ -12,14 +12,24 @@ export default navbar([
   //   ],
   // },
   {
-    text: "Html&Css",
+    text: "Html",
     icon: "iconfont icon-align",
-    link: 'Html&Css/'
+    link: 'Html/'
+  },
+  {
+    text: "CSS",
+    icon: "iconfont icon-align",
+    link: 'Css/'
   },
   {
     text: "Javascript",
     icon: "iconfont icon-align",
     link: 'Javascript/'
+  },
+  {
+    text: "TypeScript",
+    icon: "iconfont icon-align",
+    link: 'TypeScript/'
   },
   {
     text: "Vue",
