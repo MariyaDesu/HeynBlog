@@ -12,34 +12,13 @@ export default navbar([
   //   ],
   // },
   {
-    text: "Html",
-    icon: "iconfont icon-align",
-    link: 'Html/'
+    text: "FrontEnd",
+    icon: "iconfont icon-javascript",
+    link: 'FrontEnd/'
   },
   {
-    text: "CSS",
-    icon: "iconfont icon-align",
-    link: 'Css/'
+    text: "BackEnd",
+    icon: "iconfont icon-java",
+    link: 'BackEnd/'
   },
-  {
-    text: "Javascript",
-    icon: "iconfont icon-align",
-    link: 'Javascript/'
-  },
-  {
-    text: "TypeScript",
-    icon: "iconfont icon-align",
-    link: 'TypeScript/'
-  },
-  {
-    text: "Vue",
-    icon: "iconfont icon-align",
-    link: 'Vue/'
-  },
-  {
-    text: "Node",
-    icon: "iconfont icon-align",
-    link: 'Node/'
-  },
-
 ]);
