@@ -14,7 +14,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "./logo.png",
+  logo: "./logo.svg",
 
   
 
@@ -40,7 +40,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    avatar:'/logo.png',
+    avatar:'/logo.svg',
     name:'Heyn',
     roundAvatar:true,
     description: "一个前端开发者",
